@@ -33,6 +33,4 @@ More on [Medium](https://medium.com/@jenniferevangelista.code) and in the [Datab
 
 ## Earlier projects
 
-- [Cognitiva](https://github.com/jenniferevangelista-de/cognitiva): a 2019 PySpark exercise.
 - [Datathon calculator](https://github.com/jenniferevangelista-de/calculadora_avalidacao_datathon): a 2024 Flask/Dash prototype.
-- [Flask Hello World](https://github.com/jenniferevangelista-de/flask-hello-world): a fork of the Render example.
