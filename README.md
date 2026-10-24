@@ -30,7 +30,3 @@ Most of my public work is about data quality, CDC, join cardinality and freshnes
 - [Unity Catalog Row Filters and Column Masks](https://medium.com/@jenniferevangelista.code/unity-catalog-row-filters-and-column-masks-a-fail-closed-security-design-you-can-test-d3e3b25e0ab0)
 
 More on [Medium](https://medium.com/@jenniferevangelista.code) and in the [Databricks Community](https://community.databricks.com/t5/user/viewprofilepage/user-id/266991).
-
-## Earlier projects
-
-- [Datathon calculator](https://github.com/jenniferevangelista-de/calculadora_avalidacao_datathon): a 2024 Flask/Dash prototype.
