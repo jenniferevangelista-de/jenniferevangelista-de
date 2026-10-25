@@ -6,6 +6,8 @@ The 275th professional from Brazil to join the official Databricks Certified Dir
 
 I build reproducible data pipelines and practical AI applications with Python, SQL and PySpark, with a strong focus on cloud modernization, FinOps and governance.
 
+Credentials and badges: **[Credly](https://www.credly.com/users/jennifer-evangelista)**.
+
 [LinkedIn](https://www.linkedin.com/in/jenniferces/) · [Medium](https://medium.com/@jenniferevangelista.code) · [DEV](https://dev.to/jenniferevangelistade) · [All links](https://linktr.ee/jen.data.nasa)
 
 ---
