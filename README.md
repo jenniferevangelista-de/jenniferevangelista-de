@@ -1,8 +1,10 @@
 # Jennifer Evangelista
 
-### Data & AI Architect · Data Engineering · Applied AI
+Data Architecture & Data Engineering Specialist | Databricks Certified Data Engineer Professional | AWS & Google Cloud certified.
 
-I work with **Python, SQL, PySpark, Apache Spark, AWS and Databricks** to make data reliable and technical ideas testable. Here I share reproducible labs, practical AI projects and technical writing—with clear assumptions, tests and honest limits.
+The 275th professional from Brazil to join the official Databricks Certified Directory in the Data Engineer Professional category.
+
+I build reproducible data pipelines and practical AI applications with Python, SQL and PySpark, with a strong focus on cloud modernization, FinOps and governance.
 
 [LinkedIn](https://www.linkedin.com/in/jenniferces/) · [Medium](https://medium.com/@jenniferevangelista.code) · [DEV](https://dev.to/jenniferevangelistade) · [All links](https://linktr.ee/jen.data.nasa)
 
