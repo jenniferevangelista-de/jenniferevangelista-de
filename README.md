@@ -44,4 +44,4 @@ I build reproducible data pipelines and practical AI applications with Python, S
 
 For data architecture, data engineering and applied AI collaborations: **[LinkedIn](https://www.linkedin.com/in/jenniferces/)**.
 
-Explore more on [Medium](https://medium.com/@jenniferevangelista.code), [DEV](https://dev.to/jenniferevangelistade), [Databricks Community](https://community.databricks.com/t5/user/viewprofilepage/user-id/266991), [Kaggle](https://www.kaggle.com/jenniferdata), [Hugging Face](https://huggingface.co/maltanikaido) and [Zindi](https://zindi.world/users/jennifer_evangelista).
+Explore more on [Medium](https://medium.com/@jenniferevangelista.code), [DEV](https://dev.to/jenniferevangelistade), [Databricks Community](https://community.databricks.com/t5/user/viewprofilepage/user-id/266991), [Kaggle](https://www.kaggle.com/jenniferdata), [Hugging Face](https://huggingface.co/jenniferevangelista) and [Zindi](https://zindi.world/users/jennifer_evangelista).
