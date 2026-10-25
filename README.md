@@ -1,8 +1,8 @@
 # Jennifer Evangelista
 
-### Data Architecture · Data Engineering · Applied AI
+### Data & AI Architect · Data Engineering · Applied AI
 
-I work with **Python, SQL, PySpark and Databricks** to make data reliable and technical ideas testable. Here I share reproducible labs, practical AI projects and technical writing—with clear assumptions, tests and honest limits.
+I work with **Python, SQL, PySpark, Apache Spark, AWS and Databricks** to make data reliable and technical ideas testable. Here I share reproducible labs, practical AI projects and technical writing—with clear assumptions, tests and honest limits.
 
 [LinkedIn](https://www.linkedin.com/in/jenniferces/) · [Medium](https://medium.com/@jenniferevangelista.code) · [DEV](https://dev.to/jenniferevangelistade) · [All links](https://linktr.ee/jen.data.nasa)
 
@@ -13,7 +13,7 @@ I work with **Python, SQL, PySpark and Databricks** to make data reliable and te
 | Project | What you'll find |
 |---|---|
 | **[Data Engineering Lab](https://github.com/jenniferevangelista-de/data-engineering-lab)** | Reproducible Python, SQL and PySpark examples for data quality, CDC, join cardinality and freshness. Synthetic data, tests and GitHub Actions. |
-| **[Night Guard](https://github.com/jenniferevangelista-de/night-guard)** | An applied AI prototype that helps children understand concerning chat messages and ask for help. Local analysis with Gemma, practice scenarios and configurable family rules. [Read the project story on DEV](https://dev.to/jenniferevangelistade/night-guard-an-open-model-guard-that-watches-out-for-kids-in-game-chats-so-tired-parents-dont-3fb6). |
+| **[Night Guard](https://github.com/jenniferevangelista-de/night-guard)** | An open-source applied AI MVP/prototype in development, designed to help children understand concerning chat messages and ask for help. Local analysis with Gemma, practice scenarios and configurable family rules. [Read the project story on DEV](https://dev.to/jenniferevangelistade/night-guard-an-open-model-guard-that-watches-out-for-kids-in-game-chats-so-tired-parents-dont-3fb6). |
 | **[CS50 AI Learning Portfolio](https://github.com/jenniferevangelista-de/cs50-ai-learning-portfolio)** | Concepts and results from the 12 projects in Harvard's CS50 AI course. Solutions remain private in line with the course policy. |
 
 ## What I work on
@@ -42,4 +42,4 @@ I work with **Python, SQL, PySpark and Databricks** to make data reliable and te
 
 For data architecture, data engineering and applied AI collaborations: **[LinkedIn](https://www.linkedin.com/in/jenniferces/)**.
 
-Explore more on [Medium](https://medium.com/@jenniferevangelista.code), [DEV](https://dev.to/jenniferevangelistade), [Databricks Community](https://community.databricks.com/t5/user/viewprofilepage/user-id/266991) and [Kaggle](https://www.kaggle.com/jenniferdata).
+Explore more on [Medium](https://medium.com/@jenniferevangelista.code), [DEV](https://dev.to/jenniferevangelistade), [Databricks Community](https://community.databricks.com/t5/user/viewprofilepage/user-id/266991), [Kaggle](https://www.kaggle.com/jenniferdata), [Hugging Face](https://huggingface.co/maltanikaido) and [Zindi](https://zindi.world/users/jennifer_evangelista).
