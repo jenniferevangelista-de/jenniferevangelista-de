@@ -1,32 +1,45 @@
 # Jennifer Evangelista
 
-**Data engineering and architecture.**
+### Data Architecture · Data Engineering · Applied AI
 
-I work with Python, SQL and PySpark, and I like to answer technical questions with
-small examples you can run: clear data contracts, tests, and honest limits.
-Most of my public work is about data quality, CDC, join cardinality and freshness.
+I work with **Python, SQL, PySpark and Databricks** to make data reliable and technical ideas testable. Here I share reproducible labs, practical AI projects and technical writing—with clear assumptions, tests and honest limits.
 
-## Current work
+[LinkedIn](https://www.linkedin.com/in/jenniferces/) · [Medium](https://medium.com/@jenniferevangelista.code) · [DEV](https://dev.to/jenniferevangelistade) · [All links](https://linktr.ee/jen.data.nasa)
 
-- **[Data Engineering Lab](https://github.com/jenniferevangelista-de/data-engineering-lab)**: sales aggregation in Python and SQLite, deterministic CDC batch preparation in PySpark, SQL examples from Databricks Community questions, JSON value preservation, [join-cardinality checks](https://github.com/jenniferevangelista-de/data-engineering-lab/tree/main/sql/day_002_join_cardinality) and a [freshness contract](https://github.com/jenniferevangelista-de/data-engineering-lab/tree/main/airflow/day_001_freshness_contract). Everything runs on synthetic data, with tests in GitHub Actions.
-- **[CS50 AI portfolio](https://github.com/jenniferevangelista-de/cs50-ai-learning-portfolio)**: the 12 projects of Harvard's CS50 AI course, with concepts and results. Solutions stay private, as the course requires.
+---
 
-## What you'll find in the repositories
+## Featured projects
 
-| Area | Examples |
+| Project | What you'll find |
 |---|---|
-| Python and SQL | Aggregation, input validation, join cardinality, monetary reconciliation |
-| PySpark and CDC | Version precedence, exact duplicates, conflicting records, repeatable batches |
-| Data quality | Normalization, duplicate detection, missing metrics vs. zero, freshness checks |
-| Engineering practice | Synthetic fixtures, unit tests, GitHub Actions |
+| **[Data Engineering Lab](https://github.com/jenniferevangelista-de/data-engineering-lab)** | Reproducible Python, SQL and PySpark examples for data quality, CDC, join cardinality and freshness. Synthetic data, tests and GitHub Actions. |
+| **[Night Guard](https://github.com/jenniferevangelista-de/night-guard)** | An applied AI prototype that helps children understand concerning chat messages and ask for help. Local analysis with Gemma, practice scenarios and configurable family rules. [Read the project story on DEV](https://dev.to/jenniferevangelistade/night-guard-an-open-model-guard-that-watches-out-for-kids-in-game-chats-so-tired-parents-dont-3fb6). |
+| **[CS50 AI Learning Portfolio](https://github.com/jenniferevangelista-de/cs50-ai-learning-portfolio)** | Concepts and results from the 12 projects in Harvard's CS50 AI course. Solutions remain private in line with the course policy. |
 
-## Articles
+## What I work on
 
-- [Your SQL Join Passed the Row-Count Check. Revenue Was Still Wrong.](https://medium.com/@jenniferevangelista.code/your-sql-join-passed-the-row-count-check-revenue-was-still-wrong-84d6ff448745)
-- [Your Airflow DAG Is Green. Your Data Is From Yesterday.](https://medium.com/@jenniferevangelista.code/your-airflow-dag-is-green-your-data-is-from-yesterday-caefcac73db2)
-- [Your Delta MERGE Is Not a Mind Reader](https://medium.com/@jenniferevangelista.code/your-delta-merge-is-not-a-mind-reader-16e81b6c788b)
+- **Data architecture & engineering:** data contracts, SQL, PySpark, CDC and repeatable pipelines.
+- **Data quality:** reconciliation, duplicate detection, join cardinality and freshness checks.
+- **Applied AI:** open-weight models, local inference and model fine-tuning.
+- **Engineering practice:** small runnable examples, synthetic fixtures, tests and documented limitations.
+
+## Selected writing
+
+- **[Your SQL Join Passed the Row-Count Check. Revenue Was Still Wrong.](https://medium.com/@jenniferevangelista.code/your-sql-join-passed-the-row-count-check-revenue-was-still-wrong-84d6ff448745)** — checking what a join does to the business metric.
+- **[Your Airflow DAG Is Green. Your Data Is From Yesterday.](https://medium.com/@jenniferevangelista.code/your-airflow-dag-is-green-your-data-is-from-yesterday-caefcac73db2)** — treating freshness as part of the data contract.
+- **[Your Delta MERGE Is Not a Mind Reader](https://medium.com/@jenniferevangelista.code/your-delta-merge-is-not-a-mind-reader-16e81b6c788b)** — making CDC precedence explicit.
+
+<details>
+<summary>More articles</summary>
+
 - [Your S3 Pipeline Needs a Replay Plan, Not More Optimism](https://medium.com/@jenniferevangelista.code/your-s3-pipeline-needs-a-replay-plan-not-more-optimism-a62342b93e89)
 - [Your Kafka Consumer Lag Is Not Your SLA](https://medium.com/@jenniferevangelista.code/your-kafka-consumer-lag-is-not-your-sla-offset-math-retention-and-the-missing-commit-trap-0bab431214bc)
 - [Unity Catalog Row Filters and Column Masks](https://medium.com/@jenniferevangelista.code/unity-catalog-row-filters-and-column-masks-a-fail-closed-security-design-you-can-test-d3e3b25e0ab0)
 
-More on [Medium](https://medium.com/@jenniferevangelista.code) and in the [Databricks Community](https://community.databricks.com/t5/user/viewprofilepage/user-id/266991).
+</details>
+
+## Connect
+
+For data architecture, data engineering and applied AI collaborations: **[LinkedIn](https://www.linkedin.com/in/jenniferces/)**.
+
+Explore more on [Medium](https://medium.com/@jenniferevangelista.code), [DEV](https://dev.to/jenniferevangelistade), [Databricks Community](https://community.databricks.com/t5/user/viewprofilepage/user-id/266991) and [Kaggle](https://www.kaggle.com/jenniferdata).
