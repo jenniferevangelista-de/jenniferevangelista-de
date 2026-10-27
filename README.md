@@ -6,6 +6,8 @@ The 275th professional from Brazil to join the official Databricks Certified Dir
 
 I build reproducible data pipelines and practical AI applications with Python, SQL and PySpark, with a strong focus on cloud modernization, FinOps and governance.
 
+Harvard CS50 course certificates (2026): **[Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/432fc540-b507-41aa-b5fd-07c8fca64f3f)** · **[Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/d0c33dec-9fe2-4509-afca-cc4c7155da3e)**.
+
 Credentials and badges: **[Credly](https://www.credly.com/users/jennifer-evangelista)**.
 
 [LinkedIn](https://www.linkedin.com/in/jenniferces/) · [Medium](https://medium.com/@jenniferevangelista.code) · [DEV](https://dev.to/jenniferevangelistade) · [All links](https://linktr.ee/jen.data.nasa)
